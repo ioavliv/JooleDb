@@ -69,6 +69,7 @@
     <Build Include="TechSpecFilter.sql" />
   </ItemGroup>
   <ItemGroup>
-    <PostDeploy Include="Script.PostDeployment1.sql" />
+    <PostDeploy Include="Add_User_Name.sql" />
+    <None Include="Add_data.sql" />
   </ItemGroup>
 </Project>
