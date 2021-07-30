@@ -71,5 +71,6 @@
   <ItemGroup>
     <PostDeploy Include="Add_User_Name.sql" />
     <None Include="Add_data.sql" />
+    <None Include="Add_data2.sql" />
   </ItemGroup>
 </Project>
